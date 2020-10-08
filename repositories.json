@@ -86,6 +86,11 @@
             "name": "motivate",
             "link": "https://github.com/avats-dev/motivate",
             "labels": []
+        },
+        {
+            "name": "hello-world",
+            "link": "https://github.com/rahulsain3000/hello-world",
+            "labels": ["first-pull-request", "hacktoberfest", "hacktoberfest2020"]
         }
     ]
 }
